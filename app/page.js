@@ -116,7 +116,7 @@ const handleBarClick = (index) => {
 
   return (
     <div>
-      <a className='hyperlink1' href="https://djapbarchart1.vercel.app/" onClick="window.close()" rel="noopener noreferrer"style={{ color: 'rgba(75, 192, 192, 1)' }}>Link to Advisor Protection Tracking</a>
+      <a className='hyperlink1' href="https://mortgagebar2.vercel.app/" onClick="window.close()" rel="noopener noreferrer"style={{ color: 'rgba(75, 192, 192, 1)' }}>Link to Advisor Protection Tracking</a>
     
       <h1 className='heading'>COAST Financial Solutions: <span className='advisor'>Advisor <span className='advisor-type'>Mortgage</span> Tracking</span></h1>
       <p className='sub-heading'>Add 'Month End' Data...</p>
